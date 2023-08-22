@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-daifugoclient-dev-111404-authRole",
+      "UnauthRoleArn": "arn:aws:iam::625304719596:role/amplify-daifugoclient-dev-111404-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::625304719596:role/amplify-daifugoclient-dev-111404-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-daifugoclient-dev-111404-deployment",
+      "UnauthRoleName": "amplify-daifugoclient-dev-111404-unauthRole",
+      "StackName": "amplify-daifugoclient-dev-111404",
+      "StackId": "arn:aws:cloudformation:us-west-2:625304719596:stack/amplify-daifugoclient-dev-111404/aee23e60-4117-11ee-9417-06fc4f523d5b",
+      "AmplifyAppId": "d18us572g9k1n5"
+    }
+  },
+  "daidev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-daifugoclient-daidev-120238-authRole",
+      "UnauthRoleArn": "arn:aws:iam::513448149218:role/amplify-daifugoclient-daidev-120238-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::513448149218:role/amplify-daifugoclient-daidev-120238-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-daifugoclient-daidev-120238-deployment",
+      "UnauthRoleName": "amplify-daifugoclient-daidev-120238-unauthRole",
+      "StackName": "amplify-daifugoclient-daidev-120238",
+      "StackId": "arn:aws:cloudformation:us-east-1:513448149218:stack/amplify-daifugoclient-daidev-120238/7818f570-411e-11ee-b6aa-12270174a293",
+      "AmplifyAppId": "d2rz3r4gev9a13"
+    }
+  }
+}
